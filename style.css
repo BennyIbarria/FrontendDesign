@@ -205,3 +205,11 @@ td,th{
     margin: 3em auto ;
 }
 
+@media screen and(max-width:480px) {
+    .caja, .Principal, .mapa-contenido, .contenido-diferenciales, .video{
+        width: auto;
+    }
+}
+    
+
+
